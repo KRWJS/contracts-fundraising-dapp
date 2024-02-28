@@ -13,6 +13,7 @@ node compile.js
 ```
 
 To deploy:
+
 Add private key and Infura API key to deploy.js
 
 ```bash
